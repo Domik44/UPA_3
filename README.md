@@ -16,7 +16,7 @@
 - Materiál těla
 - Barva
 - Délka hlavně měřená v mm
-- Materiál hop-upu
+- Materiál hop-up komory
 # Poznámky
 - Skript headerFile obsahuje importy knihoven, funkci, která získá rozparsovanou HTML strukturu a dále třídu "Product", která slouží pro uchovávání informací o produktu.
 - Skript linkScraper obsahuje funkce pro získání min. 100 URL odkazů na produkty z kategorie AK-47/74 -> https://airsoftshop.cz/aeg-47-74. Nemá žádné vstupní argumenty. Výpis odkazů jde na STDOUT.
