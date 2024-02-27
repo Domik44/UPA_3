@@ -1,3 +1,8 @@
+# Author: Dominik Pop
+# Date: 22.12.2023
+# Description: This file serves as header containing base functions used for scraping. 
+#              It also holds class used for storing products.
+
 from bs4 import BeautifulSoup
 from requests import get
 import random

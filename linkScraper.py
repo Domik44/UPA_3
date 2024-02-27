@@ -1,3 +1,7 @@
+# Author: Dominik Pop
+# Date: 22.12.2023
+# Description: This file containes function used for getting url links of products.
+
 from headerFile import get_text, sleep, HEADER
 
 # Global variables

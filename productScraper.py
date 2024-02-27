@@ -1,3 +1,7 @@
+# Author: Dominik Pop
+# Date: 22.12.2023
+# Description: This file containes functions used for processing individual products from their URL.
+
 from headerFile import get_text, sleep, Product
 import sys
 
